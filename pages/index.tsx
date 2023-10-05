@@ -373,7 +373,7 @@ export default function Home() {
         </div>
       </Modal>
       <div className="flex items-center justify-between gap-y-2">
-        <h1 className="text-gray-800 text-3xl font-bold">Dnd-kit Guide</h1>
+        <h1 className="text-gray-800 text-3xl font-bold">TrelloX</h1>
         <Button onClick={() => setShowAddContainerModal(true)}>
           Add Container
         </Button>
